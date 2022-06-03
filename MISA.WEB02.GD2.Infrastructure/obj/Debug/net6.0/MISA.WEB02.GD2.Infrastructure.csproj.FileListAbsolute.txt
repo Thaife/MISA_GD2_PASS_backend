@@ -1,0 +1,15 @@
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.csproj.AssemblyReference.cache
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.AssemblyInfoInputs.cache
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.AssemblyInfo.cs
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\bin\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.deps.json
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\bin\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.dll
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\bin\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.pdb
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\bin\Debug\net6.0\MISA.WEB02.GD2.Core.dll
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\bin\Debug\net6.0\MISA.WEB02.GD2.Core.pdb
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.csproj.CopyComplete
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.dll
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\refint\MISA.WEB02.GD2.Infrastructure.dll
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\MISA.WEB02.GD2.Infrastructure.pdb
+G:\Train\BackEnd\MISA.WEB02\MISA.WEB02.GD2.Infrastructure\obj\Debug\net6.0\ref\MISA.WEB02.GD2.Infrastructure.dll
